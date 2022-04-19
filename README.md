@@ -1,2 +1,2 @@
 # dragndrop
-https://mohammedajmalgit.github.io/readme/
+https://mohammedajmalgit.github.io/dragndrop/
